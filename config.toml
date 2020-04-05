@@ -1,6 +1,6 @@
-baseURL = "https://chrisalbon.com/"
+
 languageCode = "en-us"
-title = "Chris Albon"
+title = "Harsh Yadav"
 theme = "berbera"
 
 pygmentsCodeFences=true
